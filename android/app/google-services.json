@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1081879660957",
+    "project_id": "scholar-chat-b22ee",
+    "storage_bucket": "scholar-chat-b22ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081879660957:android:225d480db14e5e91424774",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081879660957-k6pke8kedcvamcjrg68uvr3rto6vdcoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-qfhutYW076149OudtjPvfDEzMAMdQ5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081879660957-k6pke8kedcvamcjrg68uvr3rto6vdcoj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1081879660957-d4hiu10q8re3ta4dlultbc9d0kjjipou.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scholarChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081879660957:android:9ff20b016f62478f424774",
+        "android_client_info": {
+          "package_name": "com.example.momo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081879660957-k6pke8kedcvamcjrg68uvr3rto6vdcoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-qfhutYW076149OudtjPvfDEzMAMdQ5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081879660957-k6pke8kedcvamcjrg68uvr3rto6vdcoj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1081879660957-d4hiu10q8re3ta4dlultbc9d0kjjipou.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scholarChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081879660957:android:79208648f4b535ef424774",
+        "android_client_info": {
+          "package_name": "com.example.scholar_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081879660957-k6pke8kedcvamcjrg68uvr3rto6vdcoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-qfhutYW076149OudtjPvfDEzMAMdQ5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081879660957-k6pke8kedcvamcjrg68uvr3rto6vdcoj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1081879660957-d4hiu10q8re3ta4dlultbc9d0kjjipou.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scholarChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
